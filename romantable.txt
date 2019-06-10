@@ -1,0 +1,247 @@
+h	あ
+k	い
+j	う
+;	え
+l	お
+
+dh	か
+dk	き
+dj	く
+d;	け
+dl	こ
+
+fh	さ
+fk	し
+fj	す
+f;	せ
+fl	そ
+
+gh	た
+gk	ち
+gj	つ
+g;	て
+gl	と
+
+eh	な
+ek	に
+ej	ぬ
+e;	ね
+el	の
+
+sh	は
+sk	ひ
+sj	ふ
+s;	へ
+sl	ほ
+
+wh	ま
+wk	み
+wj	む
+w;	め
+wl	も
+
+ah	や
+ak	いぃ
+aj	ゆ
+a;	いぇ
+al	よ
+
+rh	ら
+rk	り
+rj	る
+r;	れ
+rl	ろ
+
+xh	わ
+xk	うぃ
+xbk	ゐ
+xj	う
+x;	うぇ
+xb;	ゑ
+xl	を
+xbl	うぉ
+
+qh	が
+qk	ぎ
+qj	ぐ
+q;	げ
+ql	ご
+
+zh	ざ
+zk	じ
+zj	ず
+z;	ぜ
+zl	ぞ
+
+vh	だ
+vk	ぢ
+vj	づ
+v;	で
+vl	ど
+
+ch	ば
+ck	び
+cj	ぶ
+c;	べ
+cl	ぼ
+
+th	ぱ
+tk	ぴ
+tj	ぷ
+t;	ぺ
+tl	ぽ
+
+du	きゃ
+di	きゅ
+do	きょ
+
+dbh	くぁ
+dbk	くぃ
+db;	くぇ
+dbl	くぉ
+
+dxh	くゎ
+
+qu	ぎゃ
+qi	ぎゅ
+qo	ぎょ
+
+qbh	ぐぁ
+qbk	ぐぃ
+qb;	ぐぇ
+qbl	ぐぉ
+
+qxh	ぐゎ
+
+fu	しゃ
+fi	しゅ
+fb;	しぇ
+fo	しょ
+
+fbk	すぃ
+
+zu	じゃ
+zi	じゅ
+zb;	じぇ
+zo	じょ
+
+zbk	ずぃ
+
+gu	ちゃ
+gi	ちゅ
+gb;	ちぇ
+go	ちょ
+
+gbh	つぁ
+gxh	つぁ
+gxk	つぃ
+gx;	つぇ
+gxl	つぉ
+gbl	つぉ
+
+gbk	てぃ
+gbi		てゅ
+てゅi	てゅう
+
+gbj	とぅ
+
+vu	ぢゃ
+vi	ぢゅ
+vb;	ぢぇ
+vo	ぢょ
+
+vbk	でぃ
+vbj	どぅ
+vbi	でゅ
+
+eu	にゃ
+ei	にゅ
+eb;	にぇ
+eo	にょ
+
+su	ひゃ
+si	ひゅ
+so	ひょ
+
+sbh	ふぁ
+sbk	ふぃ
+sb;	ふぇ
+sbl	ふぉ
+sbi	ふゅ
+
+cu	びゃ
+ci	びゅ
+cb;	びぇ
+co	びょ
+
+tu	ぴゃ
+ti	ぴゅ
+tb;	ぴぇ
+to	ぴょ
+
+wu	みゃ
+wi	みゅ
+wb;	みぇ
+wo	みょ
+
+au	や
+ai	ゆ
+ao	よ
+
+ru	りゃ
+ri	りゅ
+rb;	りぇ
+ro	りょ
+
+y		う゛
+う゛h	う゛ぁ
+う゛k	う゛ぃ
+う゛j	う゛
+う゛;	う゛ぇ
+う゛l	う゛ぉ
+
+う゛u	う゛ゃ
+う゛bk	う゛ぃ
+う゛i	う゛ゅ
+う゛b;	う゛ぇ
+う゛o	う゛ょ
+
+bh	ぁ
+bk	ぃ
+bj	ぅ
+b;	ぇ
+bl	ぉ
+bxh	ゎ
+m	っ
+btj	っ
+bu	ゃ
+bi	ゅ
+bo	ょ
+
+n	ん
+p	ー
+
+vf	で	f
+vfd	ですか
+wf	ま	f
+wfd	ますか
+wfn	ません
+vd	でき
+ve	でな
+
+[	「
+]	」
+{	『
+}	』
+
+Xj	↓
+Xh	←
+Xk	↑
+Xl	→
+
+z/	……
+z-	〜
+zp	- 
+z,	?
+z.	!
+
